@@ -1,0 +1,18 @@
+Start 15:44:37 12-17
+
+loading full dataset...
+dataset loaded 15:57:10 12-17
+
+N tweets = 1593067
+N features = 1609
+------N features < 4000 count = 1173
+---N valid features for analysis = 435
+
+---N tweets without feature data = 98197
+---N valid tweets for analysis = 1494870
+
+
+CV accruacy = 71.83%
+
+---N features = 435
+---N B0 = 5

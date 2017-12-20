@@ -1,0 +1,22 @@
+loading full dataset...
+dataset loaded
+
+N tweets = 1593067
+N features = 1609
+---N tweets without feature data = 38812
+---N valid tweets for analysis = 1554255
+
+setting up k=10 fold cross-validation...
+---fold #1/10 complete    14:45:47 12-19
+---fold #2/10 complete    14:46:04 12-19
+---fold #3/10 complete    14:46:21 12-19
+---fold #4/10 complete    14:46:37 12-19
+---fold #5/10 complete    14:47:00 12-19
+---fold #6/10 complete    14:47:24 12-19
+---fold #7/10 complete    14:47:48 12-19
+---fold #8/10 complete    14:48:12 12-19
+---fold #9/10 complete    14:48:36 12-19
+---fold #10/10 complete    14:49:00 12-19
+
+CV accruacy = 73.90%
+
